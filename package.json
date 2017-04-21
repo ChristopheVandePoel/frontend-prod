@@ -1,0 +1,22 @@
+{
+  "name": "roekeloos-prod-ng",
+  "version": "0.1.1",
+  "description": "Roekeloze production builds",
+  "main": "\"\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopheVandePoel/frontend-prod.git"
+  },
+  "keywords": [
+    "roekeloos"
+  ],
+  "author": "Christophe Van de Poel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChristopheVandePoel/frontend-prod/issues"
+  },
+  "homepage": "https://github.com/ChristopheVandePoel/frontend-prod#readme"
+}
